@@ -1,7 +1,3 @@
-
-/*
-	2001202259 - Chau Van Thinh
-*/
 #include<iostream>
 using namespace std;
 #include<ctime>
